@@ -15,7 +15,7 @@ This is a simple event booking system built using React, TypeScript, and Tailwin
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/event-booking.git
+git clone https://github.com/suarajyadavy676/Event-Booking-System.git
 cd event-booking
 ```
 
